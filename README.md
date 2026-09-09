@@ -1,23 +1,41 @@
-### Hi, I'm Vadim 👋
+# Вадим Кузин
+### ИИ-автоматизация · Telegram-боты · прикладные продукты
 
-Lawyer by degree, engineer by practice. I build AI agents that automate real business workflows — procurement, legal compliance, and expert services.
+Помогаю экспертам и небольшим командам автоматизировать обращения, уведомления, тестирование и работу с контентом. Соединяю опыт маркетинга и работы с заказчиками с разработкой через ИИ-агентов.
 
-**⚖️ Legal & Procurement**
-- Specialized in government procurement (44-FZ, GOZ)
-- Two cases won in arbitration court
-- Building automated tender analysis agent
+**Москва · удалённая работа · готов к переезду и командировкам**  
+[Написать в Telegram](https://t.me/kuznitsaa) · [Email](mailto:feedline12@gmail.com)
 
-**🤖 AI & Automation**
-- Founder @ OpenClaw — autonomous AI agents for business
-- AI automation for experts who charge by results, not hours
-- Python, FastAPI, LLMs, agentic systems
+## Избранные проекты
 
-**📱 Content**
-- Writing about AI, automation, and law in Russian on Telegram: [@kuznitsaa](https://t.me/kuznitsaa)
+| Проект | Задача и решение | Подробнее |
+|---|---|---|
+| **Сервис нутрициолога** | Сайт, Telegram-бот и Mini App: тестирование, отчёты, оплата, закрытая группа, автоматические сообщения и уведомления о заявках | [Разбор кейса](https://github.com/mysoulpy/mysoulpy/blob/main/nutrition-service.md) · [Сайт](https://alyonakameneva.ru/) · [Бот](https://t.me/alkameneva_bot) |
+| **Second Brain** | Windows-приложение: голосовой захват по Alt+Q, ИИ-группировка мыслей, аналитика тем, создание контента и публикация в Telegram | [Разбор кейса](https://github.com/mysoulpy/mysoulpy/blob/main/second-brain.md) |
 
-**🎯 Current Goal**
-Building sustainable remote income through AI-automated services. Scale > perfection.
+## Что беру в работу
+
+- Telegram-боты и Mini Apps для экспертов и сервисных команд.
+- Передача заявок с сайта, уведомления и отчёты в Telegram.
+- Интеграции с API и платёжными сервисами под согласованные сценарии.
+- Прототипы ИИ-инструментов для обработки информации и подготовки контента.
+
+## Мой подход
+
+**Задача → требования и ТЗ → первая версия → проверка сценариев → запуск и доработки.**
+
+Прорабатываю логику продукта и критерии готовности, подбираю инструменты, ставлю задачи ИИ-агентам и проверяю результат. Разработка через ИИ — мой основной рабочий процесс. Стек ниже отражает технологии реализованных проектов.
+
+**В проектах:** Python, aiogram, aiohttp, SQLAlchemy, SQLite, APScheduler, Telegram Bot API, Prodamus, Яндекс.Метрика, Electron, React, Vite, интеграции с LLM.
+
+**Опыт до разработки:** B2B-маркетинг и аккаунт-менеджмент в медицинской сфере, продажи, работа с юридической документацией. Юридическое образование, английский B1.
+
+## Обсудим задачу
+
+Напишите, какой процесс сейчас выполняется вручную и что должно происходить автоматически. Обсудим состав первой версии, интеграции и ожидаемый результат.
+
+[Telegram: @kuznitsaa](https://t.me/kuznitsaa)
 
 ---
+Здесь опубликованы описания проектов. Исходный код, настройки и пользовательские данные не распространяются. Демонстрация Second Brain — по запросу. [Условия использования материалов](https://github.com/mysoulpy/mysoulpy/blob/main/PORTFOLIO-NOTICE.md).
 
-*English B1 — I understand code better than grammar, but I'm working on both.*
