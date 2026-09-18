@@ -1,6 +1,6 @@
 # Сайт и Telegram-сервис нутрициолога
 
-[← Портфолио](https://github.com/mysoulpy) · [Сайт](https://alyonakameneva.ru/) · [Telegram-бот](https://t.me/alkameneva_bot)
+[← Портфолио](https://github.com/mysoulpy) · [Сайт](https://alyonakameneva.ru/) · [Telegram-бот](https://t.me/alkameneva_bot) · [Связаться](https://t.me/mysoulpy)
 
 **Заказчик:** частная практика нутрициолога Алёны Каменевой.  
 **Моя роль:** исследование задачи, позиционирование, сценарии, ТЗ, разработка через ИИ-агентов, проверка и запуск.  
